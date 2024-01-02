@@ -43,4 +43,5 @@ In order to expand the knowledge and the ability of thinking, it's also a requir
 - **_Mindset_**
 - **_Master Your Emotion_**
 - **_Decision Making_**
+- **_A Subtle Art of Giving a Fk_**
 - **_...More_**
