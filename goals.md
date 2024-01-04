@@ -36,6 +36,8 @@ In order to follow the trend of the current technologies in the IT field, there 
 
 - **_Remix_**: A fast and has good rendering techniques for building highly dynamic application such as dashboard and analytics applcation which can be used to integrated the AI integration practices.
 
+- **_Three.js_**: A 3D modeling framework for building robust and cool websites with 3D animations.
+
 ## Books to read in 2024
 
 In order to expand the knowledge and the ability of thinking, it's also a requirement to read more self-development book.
@@ -44,4 +46,5 @@ In order to expand the knowledge and the ability of thinking, it's also a requir
 - **_Master Your Emotion_**
 - **_Decision Making_**
 - **_A Subtle Art of Giving a Fk_**
-- **_...More_**
+- **_Dark Psycology_**
+- **_More..._**
